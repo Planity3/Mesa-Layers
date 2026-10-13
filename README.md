@@ -26,7 +26,3 @@ Use exactly one of `block` or `pool` per file.
 
 Layers apply in filename order, after vanilla's bands. The band array is built when a world loads,
 so changes need a world re-enter and only affect newly generated chunks.
-
-## Optional Dye Depot compat
-`dye_depot_terracotta.json` adds random bands using every `dye_depot:*_terracotta` block (glazed excluded).
-It only loads when the `dye_depot` mod is installed. Delete the file to turn it off.
