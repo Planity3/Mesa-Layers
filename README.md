@@ -1,17 +1,17 @@
-# Mesa Layers (NeoForge 1.21.1)
+# Mesa Layers
 
 Adds custom terracotta layers to badlands bands via datapack JSON.
 
 ## Defining layers
 Put files in `data/<namespace>/mesa_layers/<name>.json` (any datapack, or the mod's own data folder).
 
-Random mode (vanilla style):
+Random mode (how vanilla does it):
     { "block": "minecraft:lime_terracotta", "count": 6, "min_thickness": 1, "max_thickness": 2 }
 
-Fixed mode (exact Y range):
+Fixed mode (exact y range):
     { "block": "minecraft:cyan_terracotta", "y_min": 70, "y_max": 72 }
 
-Pool mode (pick from a mod's blocks without listing IDs; one random block per band):
+Pool mode (pick from a mod's blocks without listing IDs, one random block per band):
     { "pool": { "namespace": "somemod", "path_suffix": "_terracotta", "exclude_contains": ["glazed"] }, "count": 4 }
 
 Optional mods: add `"requires_mods": ["modid"]` to skip a layer silently when that mod isn't installed.
