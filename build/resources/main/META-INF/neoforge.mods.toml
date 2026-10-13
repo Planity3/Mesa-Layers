@@ -1,0 +1,36 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "mesalayers"
+version = "1.0.0"
+displayName = "Mesa Layers"
+description = '''
+Adds custom terracotta/clay layers to badlands (mesa) bands, defined entirely in datapack JSON.
+'''
+
+[[dependencies.mesalayers]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.mesalayers]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "mesalayers.mixins.json"
+
+# Optional compat: Dye Depot's terracotta colors (see data/mesalayers/mesa_layers/dye_depot_terracotta.json)
+[[dependencies.mesalayers]]
+modId = "dye_depot"
+type = "optional"
+versionRange = "[0,)"
+ordering = "AFTER"
+side = "BOTH"

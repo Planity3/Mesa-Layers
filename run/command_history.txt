@@ -1,0 +1,15 @@
+/locate biome minecraft:badlands
+/tp @s 167 65 64
+/locate biome minecraft:badlands
+/tp @s -3621 67 -2370
+/locate biome minecraft:eroded_badlands
+/tp @s -3830 94 -1282
+/locate biome minecraft:badlands
+/tp @s -217 71 646t
+/tp @s -217 71 646
+/locate biome minecraft:badlands
+/tp @s 1736 117 -3004
+/locate biome minecraft:badlands
+/tp @s -814 72 -1272
+/locate biome minecraft:badlands
+/tp @s -758 111 3649

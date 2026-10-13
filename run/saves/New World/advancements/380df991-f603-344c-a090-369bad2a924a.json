@@ -1,0 +1,241 @@
+{
+  "dye_depot:recipes/building_blocks/verdant_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/coral_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/coral_glazed_terracotta": {
+    "criteria": {
+      "has_coral_terracotta": "2026-10-13 09:25:50 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/rose_glazed_terracotta": {
+    "criteria": {
+      "has_rose_terracotta": "2026-10-13 09:25:22 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/maroon_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/aqua_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/tan_glazed_terracotta": {
+    "criteria": {
+      "has_tan_terracotta": "2026-10-13 09:26:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/amber_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/rose_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-13 09:24:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/mint_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/navy_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/teal_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/indigo_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2026-10-13 09:25:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/tan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/forest_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/beige_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/olive_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/ginger_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/slate_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2026-10-13 09:24:36 -0400",
+      "minecraft:eroded_badlands": "2026-10-13 09:26:11 -0400",
+      "minecraft:forest": "2026-10-13 09:24:24 -0400",
+      "minecraft:river": "2026-10-13 09:24:58 -0400",
+      "minecraft:wooded_badlands": "2026-10-13 09:24:42 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "dye_depot:recipes/building_blocks/beige_glazed_terracotta": {
+    "criteria": {
+      "has_beige_terracotta": "2026-10-13 09:26:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-10-13 09:25:29 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
