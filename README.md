@@ -2,13 +2,6 @@
 
 Adds custom terracotta layers to badlands bands via datapack JSON.
 
-## Build
-Copy the Gradle wrapper from the NeoForge 1.21.1 MDK (or run `gradle wrapper`), then:
-
-    ./gradlew build
-
-The jar is in `build/libs/`. Adjust `neoForge.version` in `build.gradle` to match your pack.
-
 ## Defining layers
 Put files in `data/<namespace>/mesa_layers/<name>.json` (any datapack, or the mod's own data folder).
 
